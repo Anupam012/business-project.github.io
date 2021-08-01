@@ -1,0 +1,36 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M37.625 6.125H39.375V10.5H37.625V6.125Z" fill="#4D5D7A"/>
+<path d="M46.375 6.125H48.125V10.5H46.375V6.125Z" fill="#4D5D7A"/>
+<path d="M33.25 54.25V14H52.5V54.25" fill="#3D98F7"/>
+<path d="M38.5 49H47.25V54.25H38.5V49Z" fill="#F5B953"/>
+<path d="M22.75 36.75H33.25V54.25H22.75V36.75Z" fill="#2B74CA"/>
+<path d="M3.5 54.25V27.125H22.75V54.25" fill="#3D98F7"/>
+<path d="M36.75 21H40.25V24.5H36.75V21Z" fill="white"/>
+<path d="M45.5 21H49V24.5H45.5V21Z" fill="white"/>
+<path d="M36.75 28H40.25V31.5H36.75V28Z" fill="white"/>
+<path d="M45.5 28H49V31.5H45.5V28Z" fill="white"/>
+<path d="M36.75 35H40.25V38.5H36.75V35Z" fill="white"/>
+<path d="M45.5 35H49V38.5H45.5V35Z" fill="white"/>
+<path d="M36.75 42H40.25V45.5H36.75V42Z" fill="white"/>
+<path d="M45.5 42H49V45.5H45.5V42Z" fill="white"/>
+<path d="M7 30.625H10.5V34.125H7V30.625Z" fill="white"/>
+<path d="M15.75 30.625H19.25V34.125H15.75V30.625Z" fill="white"/>
+<path d="M7 37.625H10.5V41.125H7V37.625Z" fill="white"/>
+<path d="M15.75 37.625H19.25V41.125H15.75V37.625Z" fill="white"/>
+<path d="M7 44.625H10.5V48.125H7V44.625Z" fill="white"/>
+<path d="M15.75 44.625H19.25V48.125H15.75V44.625Z" fill="white"/>
+<path d="M35 14V10.5H50.75V14" fill="#F5B953"/>
+<path d="M5.25 27.125V23.625H21V27.125" fill="#F5B953"/>
+<path d="M38.5 7C39.4665 7 40.25 5.82475 40.25 4.375C40.25 2.92525 39.4665 1.75 38.5 1.75C37.5335 1.75 36.75 2.92525 36.75 4.375C36.75 5.82475 37.5335 7 38.5 7Z" fill="#669E4F"/>
+<path d="M47.25 7C48.2165 7 49 5.82475 49 4.375C49 2.92525 48.2165 1.75 47.25 1.75C46.2835 1.75 45.5 2.92525 45.5 4.375C45.5 5.82475 46.2835 7 47.25 7Z" fill="#669E4F"/>
+<path d="M0.875 53.375H55.125V55.125H0.875V53.375Z" fill="#4D5D7A"/>
+<path d="M25.375 39.375H27.125V41.125H25.375V39.375Z" fill="white"/>
+<path d="M28.875 39.375H30.625V41.125H28.875V39.375Z" fill="white"/>
+<path d="M25.375 42.875H27.125V44.625H25.375V42.875Z" fill="white"/>
+<path d="M28.875 42.875H30.625V44.625H28.875V42.875Z" fill="white"/>
+<path d="M25.375 46.375H27.125V48.125H25.375V46.375Z" fill="white"/>
+<path d="M28.875 46.375H30.625V48.125H28.875V46.375Z" fill="white"/>
+<path d="M25.375 49.875H27.125V51.625H25.375V49.875Z" fill="white"/>
+<path d="M28.875 49.875H30.625V51.625H28.875V49.875Z" fill="white"/>
+<path d="M35.875 16.625H49.875V18.375H35.875V16.625Z" fill="white"/>
+</svg>
